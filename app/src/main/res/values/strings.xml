@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iphone_14___1 strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="get_started_string">GET STARTED</string>
+    <string name="rate_to_help_us_to_maintain_quality_service_string">Rate to help us to maintain      quality service</string>
+    <string name="skip_string">SKIP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Preguntame">¿Conoces a este Pokemon?</string>
+</resources>
