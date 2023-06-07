@@ -33,14 +33,14 @@
 
         <RadioButton
             android:id="@+id/Radiosi"
-            android:layout_width="105dp"
-            android:layout_height="wrap_content"
+            android:layout_width="98dp"
+            android:layout_height="match_parent"
             android:text="Si" />
 
         <RadioButton
             android:id="@+id/radiono"
             android:layout_width="123dp"
-            android:layout_height="wrap_content"
+            android:layout_height="69dp"
             android:text="No" />
 
     </RadioGroup>
